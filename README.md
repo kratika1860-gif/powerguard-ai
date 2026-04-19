@@ -56,9 +56,6 @@ The platform includes a processed **High-Fidelity Hybrid Dataset** located in `d
 
 
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x450?text=PowerGuard+AI+Dashboard+Overview" alt="Dashboard Overview" width="800">
-</div>
 
 ## 📜 License
 
