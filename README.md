@@ -54,10 +54,7 @@ The platform includes a processed **High-Fidelity Hybrid Dataset** located in `d
 5. **Launch the Dashboard**:
    Open `index.html` in any modern browser.
 
-## 📸 Screenshots
 
-> [!NOTE]
-> Add your dashboard screenshots here to showcase the premium UI.
 
 <div align="center">
   <img src="https://via.placeholder.com/800x450?text=PowerGuard+AI+Dashboard+Overview" alt="Dashboard Overview" width="800">
