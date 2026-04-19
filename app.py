@@ -1,7 +1,4 @@
-"""
-PowerGuard AI — Flask API Server
-All ML logic lives in ml_engine.py — this file only handles HTTP routing.
-"""
+
 
 import datetime
 import random
